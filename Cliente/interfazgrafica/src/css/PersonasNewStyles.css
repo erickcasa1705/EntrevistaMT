@@ -1,0 +1,49 @@
+/* StudentNewStyles.css */
+
+/* Contenedor principal del formulario para centrarlo y darle margen */
+#formulario {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos generales para los inputs y select */
+#formulario input[type='text'],
+#formulario input[type='number'],
+#formulario select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para el botón de submit */
+#formulario input[type='submit'] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+/* Hover efecto para el botón de submit */
+#formulario input[type='submit']:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para el título de la tabla */
+.table-title {
+    text-align: center;
+    color: #333;
+    font-size: 2rem;
+    margin: 20px 0;
+}
+

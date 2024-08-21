@@ -1,0 +1,40 @@
+/* HeaderStyles.css */
+
+/* Define el estilo para el logo y nombre del colegio, removiendo el subrayado y color blanco. */
+.navbar-brand {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.logo-image {
+    height: 50px; /* Altura del logo */
+    margin-right: 30px; /* Espacio entre el logo y el texto */
+}
+
+/* Establece el estilo de los enlaces del menú, incluyendo tamaño de fuente, padding, redondeo de bordes y transiciones para animaciones. */
+.nav-link {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+/* Añade efectos al pasar el mouse sobre los enlaces: cambia el fondo y eleva el enlace. */
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+/* Efecto al hacer clic en los enlaces: los presiona hacia abajo. */
+.nav-link:active {
+    transform: translateY(1px);
+}
+
+/* Ajusta el espaciado vertical dentro del encabezado para mantener todo centrado. */
+.header-container {
+    line-height: 50px;
+}

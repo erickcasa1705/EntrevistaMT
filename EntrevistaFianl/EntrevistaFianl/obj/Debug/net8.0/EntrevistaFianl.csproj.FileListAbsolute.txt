@@ -1,0 +1,14 @@
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\bin\Debug\net8.0\EntrevistaFianl.deps.json
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\bin\Debug\net8.0\EntrevistaFianl.runtimeconfig.json
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\bin\Debug\net8.0\EntrevistaFianl.dll
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\bin\Debug\net8.0\EntrevistaFianl.pdb
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.csproj.AssemblyReference.cache
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.GeneratedMSBuildEditorConfig.editorconfig
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.AssemblyInfoInputs.cache
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.AssemblyInfo.cs
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.csproj.CoreCompileInputs.cache
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.dll
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\refint\EntrevistaFianl.dll
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.pdb
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\EntrevistaFianl.genruntimeconfig.cache
+C:\EntrevistaOtro\EntrevistaFianl\EntrevistaFianl\obj\Debug\net8.0\ref\EntrevistaFianl.dll
